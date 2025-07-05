@@ -1,0 +1,2 @@
+# DrodeMusicDCBot
+Discord music bot
